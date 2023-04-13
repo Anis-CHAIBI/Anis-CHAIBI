@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="957" height="167" viewBox="0 0 957 167">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 82.063px;
+        text-anchor: middle;
+        font-family: "Arial Rounded MT Bold";
+      }
+
+      .cls-1 {
+        fill: #3e7b10;
+      }
+
+      .cls-2 {
+        fill: #428610;
+      }
+    </style>
+  </defs>
+  <text id="Nova-Teck" class="cls-1" transform="matrix(1.89, 0, 0, 1.89, 455.25, 116.59)"><tspan x="0">Nova-Teck</tspan></text>
+  <text id="Nova-Teck-2" data-name="Nova-Teck" class="cls-2" transform="matrix(1.89, 0, 0, 1.89, 455.25, 121.59)"><tspan x="0">Nova-Teck</tspan></text>
+</svg>
